@@ -1,4 +1,4 @@
-# Mappings for the H2020 project ENGAGE to the GAINS model
+# Mappings to the GAINS model for the ENGAGE project
 
 Copyright 2022 IIASA
 
@@ -28,6 +28,8 @@ and import/export with various file formats (`xlsx`, `csv`, frictionless-datapac
 
 ## Funding acknowledgement
 
-<img src="./_static/EU-logo-300x201.jpg" width="80" height="54" align="left" alt="EU logo" />
-This project has received funding from the European Union’s Horizon 2020 research and
-innovation programme under grant agreements No. 835896 (openENTRANCE) and 821471 (ENGAGE).
+<img src="./_static/EU-logo-300x201.jpg" width="72" height="49" align="left" alt="EU logo" />
+
+This project has received funding from the European Union’s **Horizon 2020** research and <br />
+innovation programme under grant agreements 835896 ([openENTRANCE](https://openentrance.eu))
+& 821471 ([ENGAGE](https://www.engage-climate.org)).
