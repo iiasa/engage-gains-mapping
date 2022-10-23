@@ -1,0 +1,37 @@
+model:
+  - GENeSYS-MOD 2.9
+native_regions:
+  - Austria: AUST_WHOL
+  - Belgium: BELG_WHOL
+  - Bulgaria: BULG_WHOL
+  - Croatia: CROA_WHOL
+  - Cyprus: CYPR_WHOL
+  - Czech Republic: CZRE_WHOL
+  - Denmark: DENM_WHOL
+  - Estonia: ESTO_WHOL
+  - Finland: FINL_WHOL
+  - France: FRAN_WHOL
+  - Germany: GERM_WHOL
+  - Greece: GREE_WHOL
+  - Hungary: HUNG_WHOL
+  - Iceland: ICEL_WHOL
+  - Ireland: IREL_WHOL
+  - Italy: ITAL_WHOL
+  - Latvia: LATV_WHOL
+  - Lithuania: LITH_WHOL
+  - Luxembourg: LUXE_WHOL
+  - Malta: MALT_WHOL
+  - The Netherlands: NETH_WHOL
+  - Norway: NORW_WHOL
+  - Poland: POLA_WHOL
+  - Portugal: PORT_WHOL
+  - Romania: ROMA_WHOL
+  - Serbia: SERB_WHOL
+  - Slovakia: SKRE_WHOL
+  - Slovenia: SLOV_WHOL
+  - Spain: SPAI_WHOL
+  - Sweden: SWED_WHOL
+  - Switzerland: SWIT_WHOL
+  - Turkey: TURK_WHOL
+  - Ukraine: UKRA_WHOL
+  - United Kingdom: UNKI_WHOL
