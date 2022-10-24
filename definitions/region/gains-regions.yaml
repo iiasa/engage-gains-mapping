@@ -1,181 +1,367 @@
 - GAINS v4.0 Regions:
   - AFGH_WHOL:
+      iso2: AF
   - ALBA_WHOL:
+      iso2: AL
   - ARGE_WHOL:
+      iso2: AR
   - ARME_WHOL:
+      iso2: AM
   - AUST_WHOL:
+      iso2: AT
   - AUTR_WHOL:
+      iso2: AU
   - AZER_WHOL:
+      iso2: AZ
   - BANG_DHAK:
+      iso2: BD
   - BANG_REST:
+      iso2: BD
   - BELA_WHOL:
+      iso2: BY
   - BELG_WHOL:
+      iso2: BE
   - BHUT_WHOL:
+      iso2: BT
   - BOHE_WHOL:
+      iso2: BA
   - BOLV_WHOL:
+      iso2: BO
   - BRAZ_WHOL:
+      iso2: BR
   - BRUN_WHOL:
+      iso2: BN
   - BULG_WHOL:
+      iso2: BG
   - CAMB_WHOL:
+      iso2: KH
   - CANA_WHOL:
+      iso2: CA
   - CARB_WHOL:
+      iso2: AG, AI, AW, BB, BL, BQ, BS, CU, CW, DM, DO, GD, GF, GP, GY, HT, JM, KN, KY,
+        LC, MF, MQ, MS, PR, SR, SX, TC, TT, VC, VI
   - CEAM_WHOL:
+      iso2: BZ, CR, GT, HN, NI, PA, SV
   - CHIL_WHOL:
+      iso2: CL
   - CHIN_ANHU:
+      iso2: CN
   - CHIN_BEIJ:
+      iso2: CN
   - CHIN_CHON:
+      iso2: CN
   - CHIN_FUJI:
+      iso2: CN
   - CHIN_GANS:
+      iso2: CN
   - CHIN_GUAD:
+      iso2: CN
   - CHIN_GUAX:
+      iso2: CN
   - CHIN_GUIZ:
+      iso2: CN
   - CHIN_HAIN:
+      iso2: CN
   - CHIN_HEBE:
+      iso2: CN
   - CHIN_HEIL:
+      iso2: CN
   - CHIN_HENA:
+      iso2: CN
   - CHIN_HONG:
+      iso2: HK, MO
   - CHIN_HUBE:
+      iso2: CN
   - CHIN_HUNA:
+      iso2: CN
   - CHIN_JILI:
+      iso2: CN
   - CHIN_JINU:
+      iso2: CN
   - CHIN_JINX:
+      iso2: CN
   - CHIN_LIAO:
+      iso2: CN
   - CHIN_NEMO:
+      iso2: CN
   - CHIN_NINX:
+      iso2: CN
   - CHIN_QING:
+      iso2: CN
   - CHIN_SHAA:
+      iso2: CN
   - CHIN_SHAN:
+      iso2: CN
   - CHIN_SHND:
+      iso2: CN
   - CHIN_SHNX:
+      iso2: CN
   - CHIN_SICH:
+      iso2: CN
   - CHIN_TIAN:
+      iso2: CN
   - CHIN_TIBE:
+      iso2: CN
   - CHIN_XING:
+      iso2: CN
   - CHIN_YUNN:
+      iso2: CN
   - CHIN_ZHEJ:
+      iso2: CN
   - COLO_WHOL:
+      iso2: CO
   - CROA_WHOL:
+      iso2: HR
   - CYPR_WHOL:
+      iso2: CY
   - CZRE_WHOL:
+      iso2: CZ
   - DENM_WHOL:
+      iso2: DK
+  - EAFR_WHOL:
+      iso2: BI, DJ, ER, ET, KM, MG, MU, RE, RW, SC, SD, SO, SS, UG
   - ECUA_WHOL:
+      iso2: EC
   - EGYP_WHOL:
+      iso2: EG
   - ESTO_WHOL:
+      iso2: EE
   - FINL_WHOL:
+      iso2: FI
   - FRAN_WHOL:
+      iso2: FR
   - FSUA_WHOL:
+      iso2: TJ, TM, UZ
   - GEOR_WHOL:
+      iso2: GE
   - GERM_WHOL:
+      iso2: DE
   - GREE_WHOL:
+      iso2: GR
   - HUNG_WHOL:
+      iso2: HU
   - ICEL_WHOL:
+      iso2: IS
   - INDI_ANPR:
+      iso2: IN
   - INDI_ASSA:
+      iso2: IN
   - INDI_BENG:
+      iso2: IN
   - INDI_BIHA:
+      iso2: IN
   - INDI_CHHA:
+      iso2: IN
   - INDI_DELH:
+      iso2: IN
   - INDI_EHIM:
+      iso2: IN
   - INDI_GOA:
+      iso2: IN
   - INDI_GUJA:
+      iso2: IN
   - INDI_HARY:
+      iso2: IN
   - INDI_HIPR:
+      iso2: IN
   - INDI_JHAR:
+      iso2: IN
   - INDI_KARN:
+      iso2: IN
   - INDI_KERA:
+      iso2: IN
   - INDI_MAHA:
+      iso2: IN
   - INDI_MAPR:
+      iso2: IN
   - INDI_ORIS:
+      iso2: IN
   - INDI_PUNJ:
+      iso2: IN
   - INDI_RAJA:
+      iso2: IN
   - INDI_TAMI:
+      iso2: IN
   - INDI_UTAN:
+      iso2: IN
   - INDI_UTPR:
+      iso2: IN
   - INDI_WHIM:
+      iso2: IN, PK
   - INDO_JAKA:
+      iso2: ID
   - INDO_JAVA:
+      iso2: ID
   - INDO_REST:
+      iso2: ID
   - INDO_SUMA:
+      iso2: ID
   - IRAN_WHOL:
+      iso2: IR
   - IREL_WHOL:
+      iso2: IE
   - ISRA_WHOL:
+      iso2: IL, PS
   - ITAL_WHOL:
+      iso2: IT
   - JAPA_CHSH:
+      iso2: JP
   - JAPA_CHUB:
+      iso2: JP
   - JAPA_HOTO:
+      iso2: JP
   - JAPA_KANT:
+      iso2: JP
   - JAPA_KINK:
+      iso2: JP
   - JAPA_KYOK:
+      iso2: JP
   - KAZA_WHOL:
+      iso2: KZ
+  - KENY_WHOL:
+      iso2: KE
   - KORN_WHOL:
+      iso2: KP
   - KORS_NORT:
+      iso2: KR
   - KORS_PUSA:
+      iso2: KR
   - KORS_SEOI:
+      iso2: KR
   - KORS_SOUT:
+      iso2: KR
   - KOSO_WHOL:
+      iso2: XK
   - KYRG_WHOL:
+      iso2: KG
   - LAOS_WHOL:
+      iso2: LA
   - LATV_WHOL:
+      iso2: LV
   - LITH_WHOL:
+      iso2: LT
   - LUXE_WHOL:
+      iso2: LU
   - MACE_WHOL:
+      iso2: MK
   - MALA_KUAL:
+      iso2: MY
   - MALA_PENM:
+      iso2: MY
   - MALA_SASA:
+      iso2: MY
   - MALT_WHOL:
+      iso2: MT
   - MEXI_WHOL:
+      iso2: MX
   - MIDE_WHOL:
+      iso2: AE, BH, IQ, JO, KW, LB, OM, QA, SY, YE
   - MOLD_WHOL:
+      iso2: MD
   - MONG_WHOL:
+      iso2: MN
   - MONT_WHOL:
+      iso2: ME
   - MYAN_WHOL:
+      iso2: MM
   - NAFR_WHOL:
+      iso2: DZ, EH, LY, MA, TN
   - NEPA_WHOL:
+      iso2: NP
   - NETH_WHOL:
+      iso2: NL
   - NIGE_WHOL:
+      iso2: NG
   - NORW_WHOL:
+      iso2: NO
   - NZEL_WHOL:
+      iso2: NZ
   - OCEC_WHOL:
+      iso2: AS, CK, CX, FJ, FMGU, MP, NC, NR, NU, PF, PG, PN, PW, SB, TL, TO, VU, WS
   - OLAM_WHOL:
+      iso2: FK
   - PAKI_KARA:
+      iso2: PK
   - PAKI_NMWP:
+      iso2: PK
   - PAKI_PUNJ:
+      iso2: PK
   - PAKI_SIND:
+      iso2: PK
   - PARA_WHOL:
+      iso2: PY
   - PERU_WHOL:
+      iso2: PE
   - PHIL_BVMI:
+      iso2: PH
   - PHIL_LUZO:
+      iso2: PH
   - PHIL_MANI:
+      iso2: PH
   - POLA_WHOL:
+      iso2: PL
   - PORT_WHOL:
+      iso2: PT
   - ROMA_WHOL:
+      iso2: RO
   - RSAF_WHOL:
+      iso2: AO, BW, MW, MZ, SZ, ZM, ZW
   - RUSS_ASIA:
+      iso2: RU
   - RUSS_EURO:
+      iso2: RU
   - SAAR_WHOL:
+      iso2: SA
   - SAFR_WHOL:
+      iso2: LS, ZA
   - SERB_WHOL:
+      iso2: RS
   - SING_WHOL:
+      iso2: SG
   - SKRE_WHOL:
+      iso2: SK
   - SLOV_WHOL:
+      iso2: SI
   - SPAI_WHOL:
+      iso2: ES
   - SRIL_WHOL:
+      iso2: LK
   - SWED_WHOL:
+      iso2: SE
   - SWIT_WHOL:
+      iso2: CH
   - TAIW_WHOL:
+      iso2: TW
   - TANZ_WHOL:
+      iso2: TZ
   - THAI_BANG:
+      iso2: TH
   - THAI_CVAL:
+      iso2: TH
   - THAI_NEPL:
+      iso2: TH
   - THAI_NHIG:
+      iso2: TH
   - THAI_SPEN:
+      iso2: TH
   - TURK_WHOL:
+      iso2: TR
   - UKRA_WHOL:
+      iso2: UA
   - UNKI_WHOL:
+      iso2: GB
   - URUG_WHOL:
+      iso2: UY
   - USAM_ALAS:
+      iso2: US
   - USAM_MAIN:
+      iso2: US
   - VENE_WHOL:
+      iso2: VE
   - VIET_NORT:
+      iso2: VN
   - VIET_SOUT:
+      iso2: VN
   - WAFR_WHOL:
+      iso2: BF, BJ, CD, CF, CG, CI, CM, CV, GA, GH, GM, GN, GQ, GW, LR, ML, MR, NE, SL,
+        SN, TD, TG
