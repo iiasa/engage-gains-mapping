@@ -60,6 +60,7 @@ native_regions:
   - MESSAGEix-GLOBIOM_1.1|Western Europe: CYPR_WHOL
   - MESSAGEix-GLOBIOM_1.1|Eastern Europ: CZRE_WHOL
   - MESSAGEix-GLOBIOM_1.1|Western Europe: DENM_WHOL
+  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: EAFR_WHOL
   - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: ECUA_WHOL
   - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: EGYP_WHOL
   - MESSAGEix-GLOBIOM_1.1|Eastern Europ: ESTO_WHOL
@@ -109,6 +110,7 @@ native_regions:
   - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_KINK
   - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_KYOK
   - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: KAZA_WHOL
+  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: KENY_WHOL
   - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: KORN_WHOL
   - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_NORT
   - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_PUSA
