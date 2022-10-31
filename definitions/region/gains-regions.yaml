@@ -187,7 +187,7 @@
   - INDI_UTPR:
       iso2: IN
   - INDI_WHIM:
-      iso2: IN, PK
+      iso2: IN
   - INDO_JAKA:
       iso2: ID
   - INDO_JAVA:
@@ -201,7 +201,7 @@
   - IREL_WHOL:
       iso2: IE
   - ISRA_WHOL:
-      iso2: IL, PS
+      iso2: IL
   - ITAL_WHOL:
       iso2: IT
   - JAPA_CHSH:
@@ -255,7 +255,7 @@
   - MEXI_WHOL:
       iso2: MX
   - MIDE_WHOL:
-      iso2: AE, BH, IQ, JO, KW, LB, OM, QA, SY, YE
+      iso2: AE, BH, IQ, JO, KW, LB, OM, PS, QA, SY, YE
   - MOLD_WHOL:
       iso2: MD
   - MONG_WHOL:
@@ -277,9 +277,8 @@
   - NZEL_WHOL:
       iso2: NZ
   - OCEC_WHOL:
-      iso2: AS, CK, CX, FJ, FMGU, MP, NC, NR, NU, PF, PG, PN, PW, SB, TL, TO, VU, WS
-  - OLAM_WHOL:
-      iso2: FK
+      iso2: AS, CK, CX, FJ, FM, GU, MH, MP, NC, NR, NU, PF, PG, PN, PW, SB, TL, TO, VU,
+        WS, FK
   - PAKI_KARA:
       iso2: PK
   - PAKI_NMWP:
@@ -305,7 +304,7 @@
   - ROMA_WHOL:
       iso2: RO
   - RSAF_WHOL:
-      iso2: AO, BW, MW, MZ, SZ, ZM, ZW
+      iso2: AO, BW, LS, MW, MZ, NA, SZ, ZM, ZW
   - RUSS_ASIA:
       iso2: RU
   - RUSS_EURO:
@@ -313,7 +312,7 @@
   - SAAR_WHOL:
       iso2: SA
   - SAFR_WHOL:
-      iso2: LS, ZA
+      iso2: ZA
   - SERB_WHOL:
       iso2: RS
   - SING_WHOL:
@@ -364,4 +363,4 @@
       iso2: VN
   - WAFR_WHOL:
       iso2: BF, BJ, CD, CF, CG, CI, CM, CV, GA, GH, GM, GN, GQ, GW, LR, ML, MR, NE, SL,
-        SN, TD, TG
+        SN, ST, TD, TG
