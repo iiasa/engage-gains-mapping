@@ -140,7 +140,6 @@ native_regions:
   - MESSAGEix-GLOBIOM_1.1|Western Europe: NORW_WHOL
   - MESSAGEix-GLOBIOM_1.1|Pacific OECD: NZEL_WHOL
   - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: OCEC_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: OLAM_WHOL
   - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_KARA
   - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_NMWP
   - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_PUNJ
