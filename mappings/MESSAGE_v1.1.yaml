@@ -1,184 +1,184 @@
 model:
-  - MESSAGEix-GLOBIOM v1.1
+  - MESSAGEix-GLOBIOM 1.1
 native_regions:
-  - MESSAGEix-GLOBIOM_1.1|South Asia: AFGH_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: ALBA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: ARGE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: ARME_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: AUST_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: AUTR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: AZER_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: BANG_DHAK
-  - MESSAGEix-GLOBIOM_1.1|South Asia: BANG_REST
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: BELA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: BELG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: BHUT_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: BOHE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: BOLV_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: BRAZ_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: BRUN_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: BULG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CAMB_WHOL
-  - MESSAGEix-GLOBIOM_1.1|North America: CANA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: CARB_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: CEAM_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: CHIL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_ANHU
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_BEIJ
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_CHON
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_FUJI
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_GANS
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_GUAD
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_GUAX
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_GUIZ
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HAIN
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HEBE
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HEIL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HENA
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HONG
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HUBE
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_HUNA
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_JILI
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_JINU
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_JINX
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_LIAO
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_NEMO
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_NINX
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_QING
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_SHAA
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_SHAN
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_SHND
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_SHNX
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_SICH
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_TIAN
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_TIBE
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_XING
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_YUNN
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: CHIN_ZHEJ
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: COLO_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: CROA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: CYPR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: CZRE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: DENM_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: EAFR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: ECUA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: EGYP_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: ESTO_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: FINL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: FRAN_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: FSUA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: GEOR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: GERM_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: GREE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: HUNG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: ICEL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_ANPR
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_ASSA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_BENG
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_BIHA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_CHHA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_DELH
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_EHIM
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_GOA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_GUJA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_HARY
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_HIPR
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_JHAR
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_KARN
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_KERA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_MAHA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_MAPR
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_ORIS
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_PUNJ
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_RAJA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_TAMI
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_UTAN
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_UTPR
-  - MESSAGEix-GLOBIOM_1.1|South Asia: INDI_WHIM
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: INDO_JAKA
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: INDO_JAVA
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: INDO_REST
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: INDO_SUMA
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: IRAN_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: IREL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: ISRA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: ITAL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_CHSH
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_CHUB
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_HOTO
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_KANT
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_KINK
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: JAPA_KYOK
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: KAZA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: KENY_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: KORN_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_NORT
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_PUSA
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_SEOI
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: KORS_SOUT
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: KOSO_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: KYRG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: LAOS_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: LATV_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: LITH_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: LUXE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: MACE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: MALA_KUAL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: MALA_PENM
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: MALA_SASA
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: MALT_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: MEXI_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: MIDE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: MOLD_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: MONG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: MONT_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: MYAN_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: NAFR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: NEPA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: NETH_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: NIGE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: NORW_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Pacific OECD: NZEL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: OCEC_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_KARA
-  - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_NMWP
-  - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_PUNJ
-  - MESSAGEix-GLOBIOM_1.1|South Asia: PAKI_SIND
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: PARA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: PERU_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: PHIL_BVMI
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: PHIL_LUZO
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: PHIL_MANI
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: POLA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: PORT_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: ROMA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: RSAF_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: RUSS_ASIA
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: RUSS_EURO
-  - MESSAGEix-GLOBIOM_1.1|Middle East and North Africa: SAAR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: SAFR_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: SERB_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: SING_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: SKRE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Eastern Europ: SLOV_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: SPAI_WHOL
-  - MESSAGEix-GLOBIOM_1.1|South Asia: SRIL_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: SWED_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: SWIT_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: TAIW_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: TANZ_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: THAI_BANG
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: THAI_CVAL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: THAI_NEPL
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: THAI_NHIG
-  - MESSAGEix-GLOBIOM_1.1|Other Pacific Asia: THAI_SPEN
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: TURK_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Former Soviet Union: UKRA_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Western Europe: UNKI_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: URUG_WHOL
-  - MESSAGEix-GLOBIOM_1.1|North America: USAM_ALAS
-  - MESSAGEix-GLOBIOM_1.1|North America: USAM_MAIN
-  - MESSAGEix-GLOBIOM_1.1|Latin America and the Caribbean: VENE_WHOL
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: VIET_NORT
-  - MESSAGEix-GLOBIOM_1.1|Centrally Planned Asia and China: VIET_SOUT
-  - MESSAGEix-GLOBIOM_1.1|Sub-saharan Africa: WAFR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: AFGH_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: ALBA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: ARGE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: ARME_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: AUST_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: AUTR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: AZER_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: BANG_DHAK
+  - MESSAGEix-GLOBIOM 1.1|South Asia: BANG_REST
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: BELA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: BELG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: BHUT_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: BOHE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: BOLV_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: BRAZ_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: BRUN_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: BULG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CAMB_WHOL
+  - MESSAGEix-GLOBIOM 1.1|North America: CANA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: CARB_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: CEAM_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: CHIL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_ANHU
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_BEIJ
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_CHON
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_FUJI
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_GANS
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_GUAD
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_GUAX
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_GUIZ
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HAIN
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HEBE
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HEIL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HENA
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HONG
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HUBE
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_HUNA
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_JILI
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_JINU
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_JINX
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_LIAO
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_NEMO
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_NINX
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_QING
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_SHAA
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_SHAN
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_SHND
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_SHNX
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_SICH
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_TIAN
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_TIBE
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_XING
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_YUNN
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: CHIN_ZHEJ
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: COLO_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: CROA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: CYPR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: CZRE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: DENM_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: EAFR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: ECUA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: EGYP_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: ESTO_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: FINL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: FRAN_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: FSUA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: GEOR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: GERM_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: GREE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: HUNG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: ICEL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_ANPR
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_ASSA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_BENG
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_BIHA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_CHHA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_DELH
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_EHIM
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_GOA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_GUJA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_HARY
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_HIPR
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_JHAR
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_KARN
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_KERA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_MAHA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_MAPR
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_ORIS
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_PUNJ
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_RAJA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_TAMI
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_UTAN
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_UTPR
+  - MESSAGEix-GLOBIOM 1.1|South Asia: INDI_WHIM
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: INDO_JAKA
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: INDO_JAVA
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: INDO_REST
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: INDO_SUMA
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: IRAN_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: IREL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: ISRA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: ITAL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_CHSH
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_CHUB
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_HOTO
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_KANT
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_KINK
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: JAPA_KYOK
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: KAZA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: KENY_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: KORN_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: KORS_NORT
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: KORS_PUSA
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: KORS_SEOI
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: KORS_SOUT
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: KOSO_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: KYRG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: LAOS_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: LATV_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: LITH_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: LUXE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: MACE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: MALA_KUAL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: MALA_PENM
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: MALA_SASA
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: MALT_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: MEXI_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: MIDE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: MOLD_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: MONG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: MONT_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: MYAN_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: NAFR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: NEPA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: NETH_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: NIGE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: NORW_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Pacific OECD: NZEL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: OCEC_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: PAKI_KARA
+  - MESSAGEix-GLOBIOM 1.1|South Asia: PAKI_NMWP
+  - MESSAGEix-GLOBIOM 1.1|South Asia: PAKI_PUNJ
+  - MESSAGEix-GLOBIOM 1.1|South Asia: PAKI_SIND
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: PARA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: PERU_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: PHIL_BVMI
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: PHIL_LUZO
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: PHIL_MANI
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: POLA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: PORT_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: ROMA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: RSAF_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: RUSS_ASIA
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: RUSS_EURO
+  - MESSAGEix-GLOBIOM 1.1|Middle East and North Africa: SAAR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: SAFR_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: SERB_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: SING_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: SKRE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Eastern Europe: SLOV_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: SPAI_WHOL
+  - MESSAGEix-GLOBIOM 1.1|South Asia: SRIL_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: SWED_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: SWIT_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: TAIW_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: TANZ_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: THAI_BANG
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: THAI_CVAL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: THAI_NEPL
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: THAI_NHIG
+  - MESSAGEix-GLOBIOM 1.1|Other Pacific Asia: THAI_SPEN
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: TURK_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Former Soviet Union: UKRA_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Western Europe: UNKI_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: URUG_WHOL
+  - MESSAGEix-GLOBIOM 1.1|North America: USAM_ALAS
+  - MESSAGEix-GLOBIOM 1.1|North America: USAM_MAIN
+  - MESSAGEix-GLOBIOM 1.1|Latin America and the Caribbean: VENE_WHOL
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: VIET_NORT
+  - MESSAGEix-GLOBIOM 1.1|Centrally Planned Asia and China: VIET_SOUT
+  - MESSAGEix-GLOBIOM 1.1|Sub-saharan Africa: WAFR_WHOL
